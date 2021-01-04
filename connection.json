@@ -7,12 +7,12 @@
 		"connected": "tablet is connected",
 		"noconnection": "tablet is not connected"
 	},
-  "headphones":{
-    "connected": "headphones is connected",
-	  "noconnection": "headphones is not connected"
-  },
-  "computer":{
-    "connected": "computer is connected",
-	  "noconnection": "computer is not connected"
-}
+  	"headphones":{
+		"connected": "headphones is connected",
+	  	"noconnection": "headphones is not connected"
+  	},
+  	"computer":{
+    		"connected": "computer is connected",
+	  	"noconnection": "computer is not connected"
+	}
 }
